@@ -1,16 +1,27 @@
-## Hi there 👋
+# AISeenCheck
 
-<!--
-**aiseencheck/aiseencheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AISeenCheck is a website audit project focused on AI visibility, search readiness and generative engine optimization signals.
 
-Here are some ideas to get you started:
+It helps businesses review public website signals that can affect how AI answer engines, search systems and discovery platforms understand a brand, website, product or service.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What AISeenCheck reviews
+
+- Metadata and page titles
+- Meta descriptions
+- Canonical URLs
+- Open Graph and X/Twitter cards
+- Structured data and Organization schema
+- WebSite schema
+- Crawl access and robots.txt
+- llms.txt readiness
+- Content structure and heading clarity
+- Entity clarity and trust signals
+- AI crawler accessibility risks
+
+## Website
+
+https://aiseencheck.com/
+
+## Status
+
+AISeenCheck is currently in early MVP development.
