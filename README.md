@@ -25,3 +25,21 @@ https://aiseencheck.com/
 ## Status
 
 AISeenCheck is currently in early MVP development.
+
+
+
+AISeenCheck self-audit update:
+
+After adding a public self-audit proof section, AISeenCheck was re-tested.
+
+Score: 100/100
+Critical issues: 0
+Quick wins: 0
+Access: accessible
+Score reliable: true
+
+https://aiseencheck.com/
+
+
+
+
