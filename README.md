@@ -45,3 +45,11 @@ https://aiseencheck.com/
 
 - AISeenCheck for VPS, GPU Cloud and Hosting Websites: https://gpujet.com/aiseencheck-ai-visibility-vps-gpu-cloud-hosting/
 
+
+## Articles and Public Resources
+
+- [What AI Visibility Means for Websites — LinkedIn Article](https://www.linkedin.com/pulse/what-ai-visibility-means-websites-miodrag-marijanac-ya5pf)
+- [What AI Visibility Means for Websites, Tools and Technical Services — GitHub Article](articles/what-ai-visibility-means.md)
+- [AISeenCheck Proof and Case Studies](https://aiseencheck.com/aiseencheck-proof-case-studies/)
+
+
